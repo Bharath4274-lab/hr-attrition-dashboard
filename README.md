@@ -4,8 +4,6 @@ HR employee attrition analysis dashboard using Power BI.
 
 ## Dashboard Preview
 
-## Dashboard Preview
-
 ![HR Attrition Dashboard](./hr-attrition-dashboard.png)
 
 ## Tools Used
